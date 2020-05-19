@@ -194,10 +194,10 @@ body {
 .resume .resume_right .resume_internship ul li:after {
   content: "";
   position: absolute;
-  top: 14px;
+  top: 10px;
   left: -21px;
   width: 2px;
-  height: 115px;
+  height: 105px;
   background: #0bb5f4;
 }
 

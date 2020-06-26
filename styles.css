@@ -41,14 +41,11 @@ body {
 .resume .resume_left .resume_profile {
   width: 6px;
   height: 6px;
-  border-radius: 50%;
-  border: 2px solid #0bb5f4;
 }
 
 .resume .resume_left .resume_profile img {
   width: 2px;
   height: 115px;
-  background: #0bb5f4;width: 100%;
 }
 
 .resume .resume_left .resume_content {

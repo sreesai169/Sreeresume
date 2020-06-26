@@ -41,7 +41,6 @@ body {
 .resume .resume_left .resume_profile {
   content: "";
   position: absolute;
-  top: 5px;
   left: -25px;
   width: 6px;
   height: 6px;
